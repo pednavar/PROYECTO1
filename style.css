@@ -244,6 +244,7 @@
     line-height: 1.75rem;
 }
 .trestextocuatro {
+    text-decoration: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: rgba(255, 255, 255, 0.916);
     color: rgba(17, 24, 39);
@@ -274,6 +275,8 @@
     padding: 5px;
 }
 .iconos {
+    text-decoration: none;
+    color: rgba(156, 163, 175);
     width: 25%;
     display: flex;
     align-items: flex-start;
